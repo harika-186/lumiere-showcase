@@ -145,3 +145,18 @@ Modern browsers (Chrome 90+, Firefox 90+, Safari 14+). Uses:
 - CSS Grid + `aspect-ratio`
 - `position: sticky`
 - `backdrop-filter` (progressive enhancement)
+
+- ## Running Locally
+
+No installation or build step required.
+
+1. Clone the repository
+   git clone https://github.com/harika-186/lumiere-showcase.git
+
+2. Navigate into the folder
+   cd lumiere-showcase
+
+3. Open in your browser
+   Simply open index.html in any modern browser (Chrome, Firefox, Safari, Edge)
+
+That's it. No npm install, no server, no dependencies.
